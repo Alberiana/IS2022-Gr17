@@ -2,7 +2,7 @@
 import tkinter as tk #Libraria e Python per GUI
 from tkinter import  Label, Button, messagebox #Importimi i paketave 
 import requests
-import penetration as p
+import pagePenetration as p
 import re
 import unittest
 
