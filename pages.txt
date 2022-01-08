@@ -1,0 +1,8 @@
+http://kompjuterika.tk/login/index.php True
+https://studenti.uni-pr.edu/ True
+http://maral-mt.ru/maintextile.php?cat=1 True
+https://hackthissite.org/ False
+https://overthewire.org/wargames/ True
+https://thisislegal.com/ True
+https://www.glamgalscosmetics.ng/ True
+https://insecurerails.herokuapp.com/ True
