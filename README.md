@@ -11,11 +11,11 @@ Sistemi Operativ: Windows/Linux
 ```
 ### Punuan
 Ky applikacion eshte zhvilluar nga studentet e vitit te trete FIEK, drejtimi Inxhinieri Kompjuterike ne lenden SIGURIA NE INTERNET.
-```
+
 <ul>
    <li>Arlinda Kastrati @arlindakastrati</li>
    <li>Alberiana Tofaj @Alberiana</li>
    <li>Elsa Vitija @elsavitija</li>
    <li>Elona Rashica @Elona-Rashica</li>
 </ul>
-```
+
