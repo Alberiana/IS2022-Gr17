@@ -1,7 +1,7 @@
 # Projekti i tretë në lëndën "Siguria ne Internet" <br><br>
 ## Zhvillimi i një aplikacioni që mundëson SQL Injection Teste të Automatizuar në një URL të caktuar <br>
-**SQL Injection** është një teknikë e injektimit të kodit përmes SQL query duke shtuar të dhëna nga pjesa e përdoruesit në aplikacionin e cenueshëm të uebit. Është një nga teknikat më të zakonshme dhe më të rrezikshme të hakimit në ueb.<br>
-Një injektim i  suksesshëm i SQL mund të shkaktojë shumë dëme të mëdha në bazën e të dhënave të një aplikacioni në internet.Për shembull, mund të lexojë të dhëna të ndjeshme si fjalëkalimet e përdoruesit nga baza e të dhënave, të shtojë, modifikojë dhe madje të fshijë të dhënat e përdoruesëve të një ueb aplikacioni të caktuar.<br>
+**SQL Injection** është një teknikë e injektimit të kodit përmes SQL query duke shtuar të dhëna nga pjesa e përdoruesit në aplikacionin e cenueshëm të uebit. Është një nga teknikat më të zakonshme dhe më të rrezikshme të hakimit në ueb.<br><br>
+Një injektim i  suksesshëm i SQL mund të shkaktojë shumë dëme të mëdha në bazën e të dhënave të një aplikacioni në internet.Për shembull, mund të lexojë të dhëna të ndjeshme si fjalëkalimet e përdoruesit nga baza e të dhënave, të shtojë, modifikojë dhe madje të fshijë të dhënat e përdoruesëve të një ueb aplikacioni të caktuar.<br><br>
 Qëllimi kryesor i zhvillimit të një aplikacioni të tillë i cili mundëson SQL Injection Teste të Automatizuara në një URL të caktuar është që një perdoruesi të ia 
 mundësoj që ta testojë një website se a është i  sigurtë apo jo në lidhje me sulmet SQL Injection. <br>
 
@@ -38,18 +38,24 @@ python3 sqlinjectiontester.py
 ```
 <br>
 Pamja e programit pas ekzekutimit të **sqlinjectiontester.py**:<br>
-![1](https://user-images.githubusercontent.com/74983643/148695291-78b57f16-992d-488e-a199-eec233f3596d.PNG)
+![1](https://user-images.githubusercontent.com/74983643/148695898-3299345f-519b-4712-a7eb-040167ee9471.PNG)
+
 <br>
 Pamja e programit pas vendosjes së një URL të një website të caktuar dhe testimit të saj:<br>
-![2](https://user-images.githubusercontent.com/74983643/148695371-115adfa4-5e06-472f-a89b-18def345311d.PNG)
+![2](https://user-images.githubusercontent.com/74983643/148695914-97e6efb4-9f7d-4872-953c-5f0a9f34bdce.PNG) <br><br>
+![3](https://user-images.githubusercontent.com/74983643/148695922-00db1d93-8278-4cd3-a9e2-057db81d213b.PNG)
+<br>
 <br>
 ### Testimi:
-Për testimin e mëtutjeshem të programit të zhvilluar, ekzekutojmë file **pageTesting.py**.Pas ekzekutimit shfaqet një **Html file** i cili tregon statusin e të gjitha testimeve të cilat janë të pranishme tek file **pages.txt**.
-![6](https://user-images.githubusercontent.com/74983643/148695572-3de11672-5429-4eb4-ad40-e07c25226d15.PNG)
+Për testimin e mëtutjeshem të programit të zhvilluar, ekzekutojmë file **pageTesting.py**.Pas ekzekutimit shfaqet një **Html file** i cili tregon statusin e të gjitha testimeve të cilat janë të pranishme tek file **pages.txt**.<br>
+![6](https://user-images.githubusercontent.com/74983643/148695939-c9c7dcf5-fda2-420c-95df-71756491f414.PNG)
 <br>
-Në pjesen e terminalit:
-![4](https://user-images.githubusercontent.com/74983643/148695585-2747cd08-04d2-4669-90ac-7f1482c0d273.PNG)
-![5](https://user-images.githubusercontent.com/74983643/148695588-4cc6f63a-ef19-4f87-9e47-925709898d19.PNG)
+<br>
+Në pjesen e terminalit:<br>
+![4](https://user-images.githubusercontent.com/74983643/148695956-cff3fcf2-f72e-4bda-8973-91fec3bff22e.PNG)
+<br><br>
+![5](https://user-images.githubusercontent.com/74983643/148695962-d095ccbc-f7fb-43b3-aaf8-e0c52313adca.PNG)
+<br>
 <br>
 ### Punuan:
 Ky applikacion është zhvilluar krahas hulumtimeve të shumëta nga studentët e vitit të tretë në Fakultetin e Inxhinierisë Elektrike dhe Kompjuterike, drejtimi Inxhinieri Kompjuterike në lëndën "Siguria në Internet".
@@ -62,7 +68,7 @@ Ky applikacion është zhvilluar krahas hulumtimeve të shumëta nga studentët 
 </ul>
 
 ### Referencat:
-https://www.thepythoncode.com/code/sql-injection-vulnerability-detector-in-python
-https://github.com/x4nth055/pythoncode-tutorials/tree/master/ethical-hacking/sql-injection-detector
-https://cyberpersons.com/2016/11/15/combine-python-graphical-user-interface-sql-injection/
+https://www.thepythoncode.com/code/sql-injection-vulnerability-detector-in-python <br>
+https://github.com/x4nth055/pythoncode-tutorials/tree/master/ethical-hacking/sql-injection-detector <br>
+https://cyberpersons.com/2016/11/15/combine-python-graphical-user-interface-sql-injection/ <br>
 
