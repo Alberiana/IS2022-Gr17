@@ -45,7 +45,7 @@ https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/2.PNG <br>
 https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/3.PNG
 <br>
 <br>
-### Testimi:
+### Testimi: <br>
 Për testimin e mëtutjeshem të programit të zhvilluar, ekzekutojmë file **pageTesting.py**.Pas ekzekutimit shfaqet një **Html file** i cili tregon statusin e të gjitha testimeve të cilat janë të pranishme tek file **pages.txt**.<br>
 https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/6.PNG
 <br>
