@@ -16,7 +16,7 @@ Sistemi Operativ: Windows/Linux
 ```
 git clone https://github.com/Alberiana/IS2022-Gr17
 ```
-**Hapi 2:** Hyrja tek **root directory** i projektit të klonuar.
+**Hapi 2:** Hyrja tek **root directory** i projektit të klonuar.<br>
 **Hapi 3:** Importimi i moduleve të mëposhtme të cilat nevojiten për ekzekutimin e aplikacionit.
 ```
 import tkinter
@@ -45,7 +45,7 @@ https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/2.PNG <br>
 https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/3.PNG
 <br>
 <br>
-### Testimi: <br>
+### Testimi:
 Për testimin e mëtutjeshem të programit të zhvilluar, ekzekutojmë file **pageTesting.py**.Pas ekzekutimit shfaqet një **Html file** i cili tregon statusin e të gjitha testimeve të cilat janë të pranishme tek file **pages.txt**.<br>
 https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/6.PNG
 <br>
