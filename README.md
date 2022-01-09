@@ -39,10 +39,9 @@ python3 sqlinjectiontester.py
 <br>
 Pamja e programit pas ekzekutimit të **sqlinjectiontester.py**:<br>
 https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/1.PNG
-
 <br>
 Pamja e programit pas vendosjes së një URL të një website të caktuar dhe testimit të saj:<br>
-https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/2.PNG <br><br>
+https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/2.PNG <br>
 https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/3.PNG
 <br>
 <br>
@@ -50,16 +49,15 @@ https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/3.PNG
 Për testimin e mëtutjeshem të programit të zhvilluar, ekzekutojmë file **pageTesting.py**.Pas ekzekutimit shfaqet një **Html file** i cili tregon statusin e të gjitha testimeve të cilat janë të pranishme tek file **pages.txt**.<br>
 https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/6.PNG
 <br>
-<br>
 Në pjesen e terminalit:<br>
 https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/4.PNG
-<br><br>
+<br>
 https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/5.PNG
 <br>
-<br>
-### Punuan:
-Ky applikacion është zhvilluar krahas hulumtimeve të shumëta nga studentët e vitit të tretë në Fakultetin e Inxhinierisë Elektrike dhe Kompjuterike, drejtimi Inxhinieri Kompjuterike në lëndën "Siguria në Internet".
 
+### Punuan: <br>
+Ky applikacion është zhvilluar krahas hulumtimeve të shumëta nga studentët e vitit të tretë në Fakultetin e Inxhinierisë Elektrike dhe Kompjuterike, drejtimi Inxhinieri Kompjuterike në lëndën "Siguria në Internet".
+<br><br>
 <ul>
    <li>Arlinda Kastrati @arlindakastrati</li>
    <li>Alberiana Tofaj @Alberiana</li>
