@@ -1,5 +1,5 @@
-# Projekti i trete ne lenden "Siguria ne Internet"
-## "Zhvillimi i aplikacionit qe mundeson SQL Injection Teste te Automatizuar ne nje URL te caktuar" <br>
+# Projekti i tretë në lëndën "Siguria ne Internet" <br><br>
+## Zhvillimi i një aplikacioni që mundëson SQL Injection Teste të Automatizuar në një URL të caktuar <br>
 **SQL Injection** është një teknikë e injektimit të kodit përmes SQL query duke shtuar të dhëna nga pjesa e përdoruesit në aplikacionin e cenueshëm të uebit. Është një nga teknikat më të zakonshme dhe më të rrezikshme të hakimit në ueb.<br>
 Një injektim i  suksesshëm i SQL mund të shkaktojë shumë dëme të mëdha në bazën e të dhënave të një aplikacioni në internet.Për shembull, mund të lexojë të dhëna të ndjeshme si fjalëkalimet e përdoruesit nga baza e të dhënave, të shtojë, modifikojë dhe madje të fshijë të dhënat e përdoruesëve të një ueb aplikacioni të caktuar.<br>
 Qëllimi kryesor i zhvillimit të një aplikacioni të tillë i cili mundëson SQL Injection Teste të Automatizuara në një URL të caktuar është që një perdoruesi të ia 
@@ -36,10 +36,11 @@ Komanda për ekzekutimin e programit:
 ```
 python3 sqlinjectiontester.py
 ```
-Pamja e programit pas ekzekutimit të **sqlinjectiontester.py**:
+<br>
+Pamja e programit pas ekzekutimit të **sqlinjectiontester.py**:<br>
 ![1](https://user-images.githubusercontent.com/74983643/148695291-78b57f16-992d-488e-a199-eec233f3596d.PNG)
 <br>
-Pamja e programit pas vendosjes së një URL të një website të caktuar dhe testimit të saj:
+Pamja e programit pas vendosjes së një URL të një website të caktuar dhe testimit të saj:<br>
 ![2](https://user-images.githubusercontent.com/74983643/148695371-115adfa4-5e06-472f-a89b-18def345311d.PNG)
 <br>
 ### Testimi:
