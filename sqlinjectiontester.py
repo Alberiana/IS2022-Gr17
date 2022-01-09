@@ -1,6 +1,9 @@
 #Importimi i librarive
-import tkinter as tk #Libraria e Python per GUI
-from tkinter import  Label, Button, messagebox #Importimi i paketave 
+
+#Libraria e Python per GUI
+import tkinter as tk 
+#Importimi i paketave 
+from tkinter import  Label, Button, messagebox 
 import requests
 import pagePenetration as p
 import re
@@ -52,7 +55,7 @@ master.resizable(0,0)
 url = tk.StringVar(master)
 #Label e instruksionit
 tk.Label(master,fg="#1d2122",bg="#8dabba", font=(None, 13), text="Give the url of the website that you want to test:").grid(row=0,column=1,padx=(5,0),pady=(20,0))
-#Gjatesia e hapesires shkruese te url
+#Gjatesia e hapesires per vendojen e url-es
 e1 = tk.Entry(master, width= 52, textvariable=url)
 e1.grid(row=1,column=1,padx=(0,3), pady=(10, 0))
 
