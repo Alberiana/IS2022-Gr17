@@ -37,7 +37,7 @@ Komanda për ekzekutimin e programit:
 python3 sqlinjectiontester.py
 ```
 <br>
-Pamja e programit pas ekzekutimit të **sqlinjectiontester.py**:<br>
+Pamja e programit pas ekzekutimit të **sqlinjectiontester.py** :<br>
 https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/1.PNG
 <br>
 Pamja e programit pas vendosjes së një URL të një website të caktuar dhe testimit të saj:<br>
@@ -46,7 +46,8 @@ https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/3.PNG
 <br>
 <br>
 ### Testimi:
-Për testimin e mëtutjeshem të programit të zhvilluar, ekzekutojmë file **pageTesting.py**.Pas ekzekutimit shfaqet një **Html file** i cili tregon statusin e të gjitha testimeve të cilat janë të pranishme tek file **pages.txt**.<br>
+
+Për testimin e mëtutjeshem të programit të zhvilluar, ekzekutojmë file <b>pageTesting.py</b> .Pas ekzekutimit shfaqet një <b>Html file</b> i cili tregon statusin e të gjitha testimeve të cilat janë të pranishme tek file <b> pages.txt</b> .<br>
 https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/6.PNG
 <br>
 Në pjesen e terminalit:<br>
