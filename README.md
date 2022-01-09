@@ -38,23 +38,23 @@ python3 sqlinjectiontester.py
 ```
 <br>
 Pamja e programit pas ekzekutimit të **sqlinjectiontester.py**:<br>
-![1](https://user-images.githubusercontent.com/74983643/148695898-3299345f-519b-4712-a7eb-040167ee9471.PNG)
+https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/1.PNG
 
 <br>
 Pamja e programit pas vendosjes së një URL të një website të caktuar dhe testimit të saj:<br>
-![2](https://user-images.githubusercontent.com/74983643/148695914-97e6efb4-9f7d-4872-953c-5f0a9f34bdce.PNG) <br><br>
-![3](https://user-images.githubusercontent.com/74983643/148695922-00db1d93-8278-4cd3-a9e2-057db81d213b.PNG)
+https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/2.PNG <br><br>
+https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/3.PNG
 <br>
 <br>
 ### Testimi:
 Për testimin e mëtutjeshem të programit të zhvilluar, ekzekutojmë file **pageTesting.py**.Pas ekzekutimit shfaqet një **Html file** i cili tregon statusin e të gjitha testimeve të cilat janë të pranishme tek file **pages.txt**.<br>
-![6](https://user-images.githubusercontent.com/74983643/148695939-c9c7dcf5-fda2-420c-95df-71756491f414.PNG)
+https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/6.PNG
 <br>
 <br>
 Në pjesen e terminalit:<br>
-![4](https://user-images.githubusercontent.com/74983643/148695956-cff3fcf2-f72e-4bda-8973-91fec3bff22e.PNG)
+https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/4.PNG
 <br><br>
-![5](https://user-images.githubusercontent.com/74983643/148695962-d095ccbc-f7fb-43b3-aaf8-e0c52313adca.PNG)
+https://github.com/Alberiana/IS2022-Gr17/blob/main/Images/5.PNG
 <br>
 <br>
 ### Punuan:
