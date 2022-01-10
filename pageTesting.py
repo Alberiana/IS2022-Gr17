@@ -8,35 +8,38 @@ from ddt import ddt, data, unpack
 
 
 def get_html_file():
-    #Ne array vendosen te gjitha direktoriumet qe gjenden ne OS
+    # Ne array vendosen te gjitha direktoriumet qe gjenden ne OS
     arr = os.listdir()  
-    #Iterimi i x-it neper array te shenuar si arr
+    # Iterimi i x-it neper array te shenuar si arr
     for x in arr:  
-        #Kushti qe ti ktheje vetem files qe jane html
+        # Kushti qe ti ktheje vetem files qe jane html
         if '.html' in x:  
             return x
 
 
-#Funksioni teston te gjithe path-at
+# Funksioni teston te gjithe path-at
 def get_tests(path):
     tuples = []
     f = open(path, "r")  
     for x in f: 
         x = x.split(' ')  
         tuples.append((x[0], x[1]))  
-    #Mbyllet fajlli
+    # Mbyllet fajlli
     f.close()
-    #Kthen tuples  
+    # Kthen tuples
     return tuples  
 
-#Funksioni e kthen vleren hyrese nga string "True"/"False" ne variabel booleane True/False(1/0)
+
+# Funksioni e kthen vleren hyrese nga string "True"/"False" ne variabel booleane True/False(1/0)
 def convert_to_bool(str):  
     if str == "True":
         return True
     return False
 
-#Inicializimi i variables testing_data me tuples qe kthehen nga funksioni get_tests
+
+# Inicializimi i variables testing_data me tuples qe kthehen nga funksioni get_tests
 testing_data = get_tests('pages.txt')  
+
 
 @ddt
 class TestName(unittest.TestCase):
